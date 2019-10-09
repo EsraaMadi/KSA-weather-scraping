@@ -1,5 +1,6 @@
 # Historical Weather Status for Saudi Arabia Cities
 
+<br>
 
 ## Overview
 Planning a vacation, trip, party or other events? Then you need to know how the weather affects your event.
@@ -10,7 +11,7 @@ So knowing the weather status is important for several aspects of our life. Chec
 
 Here we are trying to collect historical weather patterns for Saudi Arabia to be able to use it later in forecasting weather conditions that you can expect for any location and at any date, even one far into the future.
 
------
+<br>
 
 
 ## Weather Data
@@ -31,7 +32,7 @@ We use this [weather website](https://www.timeanddate.com/weather/) to collect h
 
 ![](assets/weather.png)
 
------
+<br>
 
 ## Weather Scraper
 Weather scraper is a python script for downloading weather status such as :
