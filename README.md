@@ -47,6 +47,8 @@ Weather scraper is a python script for downloading weather status such as :
 
 -----
 
+<br>
+
 ### Prerequisites
 The requirements.txt file contains any Python dependencies. You can install them by running this command:
 
