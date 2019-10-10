@@ -3,13 +3,13 @@
 <br>
 
 ## Overview
-Planning a vacation, trip, party or other events? Then you need to know how the weather affects your event.
+Are you planning a vacation, trip, party or any other event in Saudi Arabia? Do you want to know how the weather looks like in there, so that your money does not go wasted?
 
-The weather status is important as well for road safety, it affects directly the number of road accidents. The emergency department in every hospital takes in their consideration the weather status as well, they have a peak in their patients number in the seasonal time.
+Weather status is crucial for road safety as it directly affects the number of road accidents. Hospitals have precautions when the weather is not great as they expect that the number of emergency cases will be at its peak. 
 
-So knowing the weather status is important for several aspects of our life. Checking the weather forecast is easy if try it for next Tuesday, but what if you are planning a big outdoor wedding for spring 2022 or your class reunion for next winter?
+Being able to forecast the weather for the next couple of years is also crucial for individuals. For example, suppose you are planning a big outdoor wedding for spring 2022 or you are planning a class reunion for next winter, you absolutely want to be aware of the weather status in advance.
 
-Here we are trying to collect historical weather patterns for Saudi Arabia to be able to use it later in forecasting weather conditions that you can expect for any location and at any date, even one far into the future.
+Here, we are trying to collect historical weather patterns for Saudi Arabia in order to use it for future weather forecasting.
 
 <br>
 
